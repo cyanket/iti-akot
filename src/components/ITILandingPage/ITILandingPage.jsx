@@ -145,7 +145,7 @@ export default function ITILandingPage() {
             <div className="flex flex-col md:flex-row items-center">
               <div className="w-full md:w-1/2 mb-8 md:mb-0">
                 <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-4">Government Industrial Training Institute</h1>
-                <h2 className="text-2xl md:text-3xl mb-6">Akot, Dist. Akola</h2>
+                <h2 className="text-2xl md:text-3xl mb-6">Popatkhed Road, Akot, Dist. Akola</h2>
                 <p className="text-lg mb-8">Shaping futures with quality technical education and skill development.</p>
                 <div className="flex flex-col sm:flex-row gap-4">
                   <button 
@@ -418,7 +418,7 @@ export default function ITILandingPage() {
                       <MapPin className="h-6 w-6 text-blue-700" />
                     </div>
                     <div>
-                      <p className="text-gray-600">Government Industrial Training Institute, Akot, District Akola, Maharashtra - 444101</p>
+                      <p className="text-gray-600">Government Industrial Training Institute, Popatkhed Road, Akot, District Akola, Maharashtra - 444101</p>
                     </div>
                   </div>
                   
@@ -436,7 +436,7 @@ export default function ITILandingPage() {
                       <Mail className="h-6 w-6 text-blue-700" />
                     </div>
                     <div>
-                      <p className="text-gray-600">principal.itiakot@gmail.com</p>
+                      <p className="text-gray-600">iti.akot@dvet.gov.in</p>
                     </div>
                   </div>
                   
